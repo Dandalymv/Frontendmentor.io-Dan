@@ -197,7 +197,7 @@ body {
   }
   .container .card .card-wrapper .description {
     font-size: 1.6rem;
-    list-height: 2.55rem;
+    line-height: 2.55rem;
   }
   .container .card .card-wrapper .plan-card {
     padding: 2.2rem 2.4rem;
