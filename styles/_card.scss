@@ -86,6 +86,7 @@
                 display: flex;
                 align-items: center;
                 justify-content: center;
+                
             }
             .primary{
                 background-color: $bright-blue;
@@ -95,7 +96,7 @@
                 cursor: pointer;
                 box-shadow: 10px 10px 20px hsla(245, 75%, 52%, 0.15), 15px 15px 30px hsla(245, 75%, 52%, 0.15);
 
-                &hover {
+                &:hover {
                     opacity: 0.7;
                 }
             

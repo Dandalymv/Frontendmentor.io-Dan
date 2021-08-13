@@ -151,7 +151,7 @@ body {
           box-shadow: 10px 10px 20px rgba(56, 41, 224, 0.15), 15px 15px 30px rgba(56, 41, 224, 0.15);
 }
 
-.container .card .primaryhover {
+.container .card .primary:hover {
   opacity: 0.7;
 }
 
